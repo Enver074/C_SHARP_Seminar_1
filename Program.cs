@@ -58,3 +58,22 @@
 //  {
 //     Console.WriteLine("Число не четное");
 //     }
+
+
+
+
+//    Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+
+// 5 -> 2, 4
+// 8 -> 2, 4, 6, 8
+
+
+// Console.WriteLine("Введите число");
+// int Num1 = int.Parse(Console.ReadLine()!);
+// int result = 1;
+
+// while (result<=Num1){
+//     if (result%2==0)
+//     Console.Write($"{result}, ");
+//     result++;
+//         }
